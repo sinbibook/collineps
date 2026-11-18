@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-11-18T04:48:58.682199798Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-11-18T04:51:09.369924014Z",
     "templateType": "trip_b",
     "propertyId": "7f726caa-3485-4709-a98f-6f6863eb03f3",
     "homepageId": "01a1a4ed-5234-74f2-81ae-bbd67dfdcff8"
@@ -69,11 +69,85 @@
     },
     "facilities": [
       {
+        "id": "6ca56424-f5a4-4b18-8ce5-5e1a4184f989",
+        "name": "공용수영장",
+        "description": "",
+        "usageGuide": "- 운영 기간: 5월 23일 ~ 9월 13일(날씨나 상황에 따라 변경될 수 있습니다)\n- 이용 시간: 입실후~19:00\n- 이용 복장: 수영복, 레쉬가드, 반팔티, 반바지 착용\n- 이용 요금: 무료\n※ 술, 음식물 반입 금지\n※ 썬텐오일 및 크림 사용 후 이용 불가\n※ 음주 후 입수 금지, 다이빙 금지\n※ 종료 일자는 날씨 상황에 따라 변동될 수 있음",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a1ecfe-7c37-7286-ae26-db7b1f64b21b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6ca56424-f5a4-4b18-8ce5-5e1a4184f989/main/1794977462296-e2ouxxpohe.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1ecfe-7b90-7b1c-8e15-7fb8de02c5f5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6ca56424-f5a4-4b18-8ce5-5e1a4184f989/main/1794977462296-emc65xsbqk.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1ecfe-7ba2-7612-96d0-3cc8f721d729",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6ca56424-f5a4-4b18-8ce5-5e1a4184f989/main/1794977462300-dg8f6h9amv.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1ecfe-7cd3-7c14-849e-a1a4c78f89c6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6ca56424-f5a4-4b18-8ce5-5e1a4184f989/main/1794977462301-zxl0cbqnac.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "67909908-d312-4938-80ae-1d414818d2f6",
+        "name": "개별바베큐",
+        "description": "",
+        "usageGuide": "[숯불 바베큐] \n- 이용 객실: 전 객실\n- 이용 장소: 실내 개별 바베큐\n- 이용 요금: 2인 기준 25,000원, 3~4인 기준 30,000원, 5~6인 기준 40,000원, 6인 이상 추가 인원 1인당 5,000원 (1박기준/현장결제)\n- 신청 시간: ~20:00\n- 이용 시간: ~23:30\n※ 우천, 동계, 강풍 시 이용 가능 \n※ 개인 화기 지참 불가  \n\n[전기그릴 바베큐] \n- 이용 객실: 전 객실\n- 이용 장소: 실내 개별 바베큐\n- 이용 요금: 2인 기준 15,000원, 3인 이상 20,000원 (1박기준/현장결제)\n- 신청 시간: ~20:00\n- 이용 시간: ~23:30\n※ 우천, 동계, 강풍 시 이용 가능 \n※ 개인 화기 지참 불가",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a1ecfe-77b5-7716-96e4-46e2019a998c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/67909908-d312-4938-80ae-1d414818d2f6/main/1794977460302-adfx77p428.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1ecfe-7797-7c5b-b29d-14f5bfdc6fca",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/67909908-d312-4938-80ae-1d414818d2f6/main/1794977460314-h0ugf9iyu5.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1ecfe-77b5-70d4-8485-7de4c0f1e48d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/67909908-d312-4938-80ae-1d414818d2f6/main/1794977460303-0qbjl3m737.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "a0c4cbb7-e5b0-4f1a-a236-9ebfed61dc2a",
         "name": "스파",
-        "description": "모든 객실에 월풀 스파가 설치되어 있습니다.\n따뜻한 스파로 몸을 녹이며 휴식을 취해보세요.\n\n※ 자세한 내용은 이용안내 페이지 참고 부탁드립니다.",
+        "description": "",
         "usageGuide": "- 이용 객실: 전 객실\n- 이용 시간: 입실후~22:00\n- 입욕제 사용: 가능\n※ 개인 입욕제 사용 불가\n※ 입욕제 펜션 지급\n※ 23시 이후 사용 자제 안내",
-        "displayOrder": 1,
+        "displayOrder": 2,
         "images": [
           {
             "id": "01a1a4ed-48e4-79b5-af6a-959b9334e32e",
@@ -118,85 +192,11 @@
         ]
       },
       {
-        "id": "01a1a4ed-425f-7532-bb09-6a4dd8d5b0c4",
-        "name": "실내바베큐",
-        "description": "사계절 이용 가능한 프라이빗한 개별바베큐장!\n모든 객실에 개별 실내 바베큐장이 마련되어 있습니다.\n넓고 깨끗한 개별 바베큐장에서\n가족, 친구, 연인과 오붓한 바베큐 파티를 즐겨보세요!\n\n※ 자세한 내용은 이용안내 페이지 참고 부탁드립니다.",
-        "usageGuide": "",
-        "displayOrder": 3,
-        "images": [
-          {
-            "id": "01a1a4ed-4bdd-7cbb-ad61-031967f397d2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1a4ed-425f-7532-bb09-6a4dd8d5b0c4/main/1793768376670-ss2gcykd6a.webp",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a1a4ed-4e09-7852-8e79-e5d9f21d34c1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1a4ed-425f-7532-bb09-6a4dd8d5b0c4/main/1793768377262-u6pf0wlqka.webp",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a1a4ed-4e98-7314-8c33-70fa78e48138",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1a4ed-425f-7532-bb09-6a4dd8d5b0c4/main/1793768377278-4x6dbv7dt8.webp",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
-        "id": "01a1a4ed-4260-7283-9f88-203b2f1239ac",
-        "name": "수영장",
-        "description": "여름철 이용하실 수 있는 야외 수영장이 있습니다.\n시원한 물놀이와 함께 즐거운 추억을 남겨보세요.\n\n※ 자세한 내용은 이용안내 페이지 참고 부탁드립니다.",
-        "usageGuide": "",
-        "displayOrder": 4,
-        "images": [
-          {
-            "id": "01a1a4ed-515f-7525-a8dc-a24eccee068d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1a4ed-4260-7283-9f88-203b2f1239ac/main/1793768378125-c7g4gydlo0.webp",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a1a4ed-4e73-7c28-97d5-2b510bfe649d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1a4ed-4260-7283-9f88-203b2f1239ac/main/1793768377415-j99rnp9vkh.webp",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a1a4ed-4ede-7262-8b42-feb9ec7ac1dd",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1a4ed-4260-7283-9f88-203b2f1239ac/main/1793768377449-1zaojcky1t.webp",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a1a4ed-5168-7a85-a90d-3e146ae9df9a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1a4ed-4260-7283-9f88-203b2f1239ac/main/1793768378036-5479mqjuwt.webp",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
         "id": "8964d8a8-e96e-44be-8674-05e2061cea57",
         "name": "편의 및 주변 시설",
-        "description": "편리한 여행을 위해\n다양한 서비스를 제공드립니다.\n\n※ 자세한 내용은 이용안내 페이지 참고 부탁드립니다.",
+        "description": "",
         "usageGuide": "- 넷플릭스 이용 가능\n※ 개인 ID 사용\n- 농수산 마트, 조은마트, 씨씨할인마트 (차량 10분 거리)",
-        "displayOrder": 5,
+        "displayOrder": 3,
         "images": [
           {
             "id": "01a1a4ed-491c-7a8c-b461-1a7db7d3a929",
